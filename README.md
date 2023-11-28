@@ -1,2 +1,2 @@
 # Covid19
-This repo has Covid19  Data Analysis done by RMarkdown
+This report is to analyze COVID19 Data provided by Johns Hopkins University through its GitHub public repo. R Markdown is used for this analysis.
